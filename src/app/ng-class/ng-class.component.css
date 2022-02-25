@@ -1,0 +1,31 @@
+mat-card {
+    margin: 40px;
+}
+
+.myclass1 {
+    font-size: 16px;
+    color: rgb(158, 157, 72);
+    background-color: rgb(43, 226, 134);
+    padding: 10px;
+}
+
+.myclass2 {
+    font-size: 16px;
+    color: rgb(204, 32, 40);
+    background-color: rgb(29, 27, 177);
+    padding: 10px;
+}
+
+.myclass3 {
+    font-size: 16px;
+    color: rgb(18, 202, 235);
+    background-color: rgb(238, 241, 14);
+    padding: 10px;
+}
+
+.myclass4 {
+    font-size: 16px;
+    color: rgb(223, 20, 145);
+    background-color: rgb(15, 204, 72);
+    padding: 10px;
+}
